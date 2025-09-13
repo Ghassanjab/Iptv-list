@@ -1,82 +1,85 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
+<meta charset="UTF-8">
+<title>TOKYO</title>
+<style>
+  body { background:#111; color:#fff; font-family:sans-serif; text-align:center; }
+  h1 { color:#0ff; }
+  video { width:90%; max-width:720px; margin:15px 0; border:2px solid #0ff; border-radius:8px; }
+  ul { list-style:none; padding:0; }
+  li { margin:6px 0; }
+  a { color:#0ff; text-decoration:none; cursor:pointer; }
+  img { height:20px; vertical-align:middle; margin-right:6px; }
+</style>
+</head>
+<body>
+  <h1>TOKYO</h1>
+  <video id="player" controls autoplay></video>
+  <ul>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340288&extension=ts&play_token=k3SBvzNNgQ')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> beIN Sport 1 HD</a></li>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340287&extension=ts&play_token=2uFCpKvt7y')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> beIN Sport 2 HD </a></li>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340282&extension=ts&play_token=PFFlgTSgbr')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> beIN Sport 3 HD </a></li>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340281&extension=ts&play_token=2LC4tmC1He')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> beIN Sport 4 HD</a></li>
+  </ul>
+
+<script>
+function play(url){
+  const v = document.getElementById('player');
+  v.src = url;
+  v.play();
+}
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ar">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مشغل بث مباشر</title>
+    <title>مشروعك</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            justify-content: center;
-            height: 100vh;
-            margin: 0;
-            direction: rtl;
-        }
-        h1 {
-            color: #333;
-            margin-bottom: 20px;
-        }
-        .video-container {
-            background-color: #000;
-            padding: 10px;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        }
-        video {
+        /* تنسيق CSS لتذييل الصفحة */
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: relative;
+            bottom: 0;
             width: 100%;
-            max-width: 800px;
-            height: auto;
-            display: block;
+            font-family: Arial, sans-serif;
         }
-        .error-message {
-            color: red;
-            margin-top: 10px;
-            display: none;
+        footer p {
+            margin: 0;
+        }
+        footer a {
+            color: #1e90ff;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
-    <h1>بث مباشر</h1>
-    <div class="video-container">
-        <video id="video" controls autoplay></video>
-    </div>
-    <p id="error-message" class="error-message">خطأ: المتصفح لا يدعم تشغيل هذا البث أو الرابط غير صالح.</p>
+    <!-- محتوى صفحتك هنا -->
 
-    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-    <script>
-        const streamUrl = 'http://delta8k.xyz:80/play/live.php?mac=00:1A:79:72:7A:32&stream=544489&extension=ts&play_token=gICJQeXiKz';
-        const video = document.getElementById('video');
-        const errorMessage = document.getElementById('error-message');
-
-        if (Hls.isSupported()) {
-            const hls = new Hls();
-            hls.loadSource(streamUrl);
-            hls.attachMedia(video);
-            hls.on(Hls.Events.MANIFEST_PARSED, () => {
-                video.play().catch(err => {
-                    console.error('خطأ أثناء التشغيل:', err);
-                    errorMessage.style.display = 'block';
-                });
-            });
-            hls.on(Hls.Events.ERROR, (event, data) => {
-                console.error('خطأ HLS:', data);
-                errorMessage.style.display = 'block';
-            });
-        } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-            video.src = streamUrl;
-            video.addEventListener('loadedmetadata', () => {
-                video.play().catch(err => {
-                    console.error('خطأ أثناء التشغيل:', err);
-                    errorMessage.style.display = 'block';
-                });
-            });
-        } else {
-            errorMessage.style.display = 'block';
-        }
-    </script>
+    <!-- تذييل حقوق الطبع والنشر -->
+    <footer>
+        <p>&copy; 2025 جميع الحقوق محفوظة | <a href="https://yourwebsite.com"> https://t.me/Gh3ss </a></p>
+    </footer>
 </body>
 </html>
