@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>TOKYO</title>
+<style>
+  body { background:#111; color:#fff; font-family:sans-serif; text-align:center; }
+  h1 { color:#0ff; }
+  video { width:90%; max-width:720px; margin:15px 0; border:2px solid #0ff; border-radius:8px; }
+  ul { list-style:none; padding:0; }
+  li { margin:6px 0; }
+  a { color:#0ff; text-decoration:none; cursor:pointer; }
+  img { height:20px; vertical-align:middle; margin-right:6px; }
+</style>
+</head>
+<body>
+  <h1>TOKYO</h1>
+  <video id="player" controls autoplay></video>
+  <ul>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340288&extension=ts&play_token=k3SBvzNNgQ')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> LA 2 HD</a></li>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340287&extension=ts&play_token=2uFCpKvt7y')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> LA SEXTA HD</a></li>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340282&extension=ts&play_token=PFFlgTSgbr')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> AMC HD</a></li>
+    <li><a onclick="play('http://delta8k.xyz:80/play/live.php?mac=00:1A:79:BB:20:F3&stream=1340281&extension=ts&play_token=2LC4tmC1He')">
+      <img src="http://icon-tmdb.me/stalker_portal/misc/logos/320/13781.png" /> ANIMAL PLANET HD</a></li>
+  </ul>
+
+<script>
+function play(url){
+  const v = document.getElementById('player');
+  v.src = url;
+  v.play();
+}
+</script>
+</body>
+</html>
