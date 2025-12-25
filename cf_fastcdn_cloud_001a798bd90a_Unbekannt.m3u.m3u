@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.gifservice.fr/img/gif-vignette-small/307b2bb04f8de3559aae2e25b0832e2e/377035.gif" group-title="AR| BEIN SPORTS MAX ◉ ⚽",## beIN SP⚽RTS MAX ◉ ##
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750920&extension=ts&play_token=zahQO47jaB
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 ᴴᴰ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750919&extension=ts&play_token=kRbfmWH5Rs
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 ᴴᴰ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750918&extension=ts&play_token=NwLTHQCf6c
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 ᴴᴰ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750917&extension=ts&play_token=YlGyHGFzHY
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 ᴴᴰ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750916&extension=ts&play_token=x3MxLtcMTv
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 SD
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750915&extension=ts&play_token=IQtOo9GbVb
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 SD
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750914&extension=ts&play_token=KEvzDuD71Y
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 SD
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750913&extension=ts&play_token=LWbp62Px8F
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 SD
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750912&extension=ts&play_token=wjiIK42JjM
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 ʰᵉᵛᶜ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750911&extension=ts&play_token=4aVRVnfqxu
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 ʰᵉᵛᶜ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750910&extension=ts&play_token=b2kdESoxCt
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 ʰᵉᵛᶜ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750909&extension=ts&play_token=H5j2nCiwyO
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 ʰᵉᵛᶜ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750908&extension=ts&play_token=hiAwc8NVrT
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 1 ᴿᴬᵂ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750907&extension=ts&play_token=VjP2t6v5YV
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 2 ᴿᴬᵂ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750906&extension=ts&play_token=lHcJbHb7Xp
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 3 ᴿᴬᵂ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750905&extension=ts&play_token=TkVvbyW6kT
+#EXTINF:-1 tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/13738.png?ver=7345" group-title="AR| BEIN SPORTS MAX ◉ ⚽",◉: beIN SP⚽RTS MAX 4 ᴿᴬᵂ
+http://cf.fastcdn.cloud:80/play/live.php?mac=00:1A:79:8B:D9:0A&stream=1750904&extension=ts&play_token=tnMGb0HDIk
