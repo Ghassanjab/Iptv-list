@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y4FxFGPN/STARZ-PLAY.gif" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",####### STARZPLAY SPORT 8K & 4K #######
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=806997&extension=ts&play_token=OaYC1K3tQV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/9686.jpg?59885" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT FIGHT ᴴᴰ
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=1325563&extension=ts&play_token=T1Sy6lMbuJ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/9686.jpg?59885" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT FIGHT SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=1325562&extension=ts&play_token=BNLNkJAFG6
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/9686.jpg?59885" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT FIGHT ᴿᴬᵂ
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=1325564&extension=ts&play_token=c9s0BdwogU
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=288268&extension=ts&play_token=QfvtIeBpIw
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM HD (STC)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633642&extension=ts&play_token=e0QnkzBLkh
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM HD (STZ)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633639&extension=ts&play_token=0y4iy3I0qx
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=411005&extension=ts&play_token=KByzhYeYin
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=301910&extension=ts&play_token=O3GgcU7e7z
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 PREMIUM 4K (STC)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633645&extension=ts&play_token=Rp9ICmtRYB
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=301908&extension=ts&play_token=6qX8C8O44W
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM HD (STC)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633641&extension=ts&play_token=UZrRcXoxlP
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM HD (STZ)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633638&extension=ts&play_token=CGDeNAUp9R
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=411004&extension=ts&play_token=rn8dqlgZ0O
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=301911&extension=ts&play_token=bhDUy852XV
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 PREMIUM 4K (STC)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633644&extension=ts&play_token=S7iNoUrKMf
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=329205&extension=ts&play_token=C9slbi6mM5
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=516882&extension=ts&play_token=29cIfU0xEe
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=293201&extension=ts&play_token=hHFkmC81iY
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 1 HD (STZ)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633636&extension=ts&play_token=20pWSBP9ko
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=329206&extension=ts&play_token=Xindurjr2q
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=516881&extension=ts&play_token=6GnnXkUJ7h
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=293202&extension=ts&play_token=aDkxwP1KfH
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORT ASIA 2 HD (STZ)
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=633635&extension=ts&play_token=4vKRss5Aqo
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=498838&extension=ts&play_token=7XHojUGt0E
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=333581&extension=ts&play_token=IjrcrviShx
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 1 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=3123&extension=ts&play_token=A9HONOctnz
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=498839&extension=ts&play_token=zS2Tl3TptS
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=333580&extension=ts&play_token=eMRGgoID5I
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 2 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=3124&extension=ts&play_token=NSC0mS4kVI
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 3 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=301909&extension=ts&play_token=mHPqHYERRR
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 3 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=411003&extension=ts&play_token=BaLqnK6xF4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: AD SPORTS 3 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=386055&extension=ts&play_token=4Ah6ny1xTK
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 1 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=387844&extension=ts&play_token=wdXp8JuOC4
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 1 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=533831&extension=ts&play_token=UHQCmrVHNz
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 1 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=386804&extension=ts&play_token=UZgkUUpDYN
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 2 HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=387843&extension=ts&play_token=Z7KFQF8TaZ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 2 SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=533830&extension=ts&play_token=rHC5RRnEEw
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: CRLIFE 2 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=386803&extension=ts&play_token=kTkyIaekJH
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV HD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=534010&extension=ts&play_token=2hCBlJJTuQ
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV SD
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=534009&extension=ts&play_token=QA7kHzS0Ap
+#EXTINF:-1 tvg-logo="http://icon-tmdb.net/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="AR| STARZPLAY SPORT ⁸ᴷ & ⁴ᴷ ⚽",VIP: GOLF TV 4K
+http://beaver34764.cdnsilver.me:80/play/live.php?mac=00:1A:79:7D:7D:FF&stream=534011&extension=ts&play_token=McAwrtUBlx
